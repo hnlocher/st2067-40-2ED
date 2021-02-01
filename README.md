@@ -9,8 +9,8 @@ The following summarizes the proposed changes and additions from the first editi
 
 ## Active discussions
 
-| Topic                    | Editing state | Discussion state | PCD revision | Related issue(s) |                                                                             |
-|--------------------------|:-------------:|:----------------:|--------------|:----------------:|
+| Topic                    | Editing state | Discussion state | PCD revision | Related issue(s) |
+| ------------------------ | :-----------: | :--------------: | ------------ | :--------------: |
 | DCDM images              | mature        | consensus        | PCD1         | #22              |
 | Composition constraints  | mature        | consensus        | PCD3         | #19, #15, #1     |
 | DCDM subtitles support   | mature        | consensus        | PCD2         |                  |
